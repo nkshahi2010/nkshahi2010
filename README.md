@@ -2,9 +2,7 @@
 - 👀 I’m interested in Modelling as well as data analysis stuff
 - 🌱 I have been working on Regional Climate Modelling
 - 💞️ I’m looking to collaborate on Modelling as well as data analysis stuff
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me -- nkshahi2010@gmail.com
 
 <!---
 nkshahi2010/nkshahi2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
